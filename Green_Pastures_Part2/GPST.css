@@ -1,20 +1,20 @@
 body {
   background-color: #FFFFFF;
-  text-color: #666666;
+  color: #666666;
 }
 header {
   background-color: #00B386;
-  text-color: #FFFFFF;
+  color: #FFFFFF;
 }
 nav {
   background-color: #70DBDB;
 }
 h2 {
-  text-color: #00664D;
+  color: #00664D;
 }
 dt {
-  text-color:#00664D;
+  color:#00664D;
 }
 barn {
-  text-color: #70DBDB;
+  color: #70DBDB;
 }
