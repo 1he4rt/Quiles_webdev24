@@ -1,1 +1,19 @@
-
+body {
+  background-color: #FFFFFF;
+  text-color: #666666;
+}
+header {
+  background-color: #00B386;
+  text-color: #FFFFFF;
+}
+nav {
+  background-color: #70DBDB
+}
+h2 {
+  text-color: #00664D
+}
+dt {
+  text-color:#00664D
+}
+class="barn" {
+  text-color: #70DBDB
