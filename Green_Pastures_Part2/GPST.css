@@ -8,6 +8,7 @@ header {
   color: #FFFFFF;
   background-image: url(Images/pasture.png);
   background-repeat: no-repeat;
+  background-position: right;
 }
 nav {
   background-color: #70DBDB;
