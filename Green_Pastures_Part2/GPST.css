@@ -7,15 +7,12 @@ header {
   background-color: #00B386;
   color: #FFFFFF;
   background-image: url(Images/pasture.png);
-  background-repeat: no-repeat;
-  background-position: right;
-  background-attachment: fixed;
 }
 nav {
   background-color: #70DBDB;
 }
 h1 {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 h2 {
   color: #00664D;
