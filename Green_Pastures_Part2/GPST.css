@@ -6,7 +6,7 @@ body {
 header {
   background-color: #00B386;
   color: #FFFFFF;
-  background-image: url("Images/pasture.png");
+  background-image: url(Images/pasture.png);
 nav {
   background-color: #70DBDB;
 }
