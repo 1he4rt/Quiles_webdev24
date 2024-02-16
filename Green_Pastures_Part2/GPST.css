@@ -23,9 +23,12 @@ h1 {
 }
 h2 {
   color: #00664D;
-  font-family: georgia;
+  font-family: Times, Georgia, serif;
 h3 {
-  font-family: georgia;
+  font-family: Times, Georgia, serif;
+}
+ul {
+  list-style-image: url("Images/marker.gif");
 }
 dt {
   color: #00664D;
@@ -37,9 +40,9 @@ dt {
 footer {
   font-size: 75%;
   font-style: italic;
-  
-
-
-
-  
+  font-family: Times, Georgia, serif;
+  text-align: center; 
+}
+#contact {
+  font-size: 90%;
 }
