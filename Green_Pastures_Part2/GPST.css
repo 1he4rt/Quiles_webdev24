@@ -1,7 +1,7 @@
 body {
   background-color: #FFFFFF;
   color: #666666;
-  font-family: arial;
+  font-family: Arial, Helvetica, sans-serif;
 }
 header {
   background-color: #00B386;
@@ -9,19 +9,37 @@ header {
   background-image: url("Images/pasture.png");
   background-repeat: no-repeat;
   background-position: top right;
+  line-height: 400%;
+  text-indent: 1em;
 }
 nav {
   background-color: #70DBDB;
+  font-weight: bold;
+  text-decoration: none;
 }
 h1 {
   margin-bottom: 0;
+  font-family: Times, Georgia, serif;
 }
 h2 {
   color: #00664D;
+  font-family: georgia;
+h3 {
+  font-family: georgia;
 }
 dt {
   color: #00664D;
 }
 .barn {
   color: #70DBDB;
+  font-weight: bold;
+}
+footer {
+  font-size: 75%;
+  font-style: italic;
+  
+
+
+
+  
 }
