@@ -1,12 +1,10 @@
 body {
-  background-color: #FFFFFF;
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
 }
 header {
   background-color: #00B386;
   color: #FFFFFF;
-  background-image: url("Images/pasture.png");
   background-repeat: no-repeat;
   background-position: top right;
   line-height: 400%;
