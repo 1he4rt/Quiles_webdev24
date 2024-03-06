@@ -49,7 +49,7 @@ h2 {
 h3 {
   font-family: Times, Georgia, serif;
 }
-ul {
+main ul {
   list-style-image: url("images/marker.gif");
 }
 dt {
@@ -66,6 +66,8 @@ footer {
   font-family: Times, Georgia, serif;
   text-align: center; 
   padding: 15px;
+  margin-left: 190px;
+  background-color: #FFFFFF;
 }
 #contact {
   font-size: 90%;
@@ -74,21 +76,26 @@ main {
   padding-top: 1px;
   padding-bottom: 20px;
   padding-right: 20px;
-  padding-left: 20px;
+  padding-left: 30px;
   display: block;
+  background-color: #FFFFFF;
+  margin-left: 190px;
 }
 #heroHome {
   height: 300px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  margin-left: 190px;
 }
 #heroTraining {
   height: 300px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  margin-left: 190px;
 }
 #heroBoard {
   height: 300px;
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  margin-left: 190px;
 }
