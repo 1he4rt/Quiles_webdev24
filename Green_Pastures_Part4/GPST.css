@@ -1,10 +1,6 @@
 * {
   box-sizing: border-box;
-
 }
-
-
-
 #wrapper {
   text-align: center;
   background-color: #0C5442;
@@ -13,12 +9,14 @@
   min-width: 900px;
   max-width: 2050px;
   box-shadow: 4px 4px #133926;
+  border-width: 1.5px;
+  border-color: #003300;
+  border-style: solid;
 }
 body {
   color: #666666;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url("images/sky.png");
-  background-repeat: no-repeat;
+  background-color: #FFFFFF;
 }
 header {
   background-color: #00B386;
