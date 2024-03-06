@@ -1,1 +1,84 @@
-
+#wrapper {
+  text-align: center;
+  background-color: #FFFFFF;
+  width: 80%;
+  min-width: 900px;
+  max-width: 2050px;
+  box-shadow: 4px 4px #133926;
+}
+body {
+  color: #666666;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("images/sky.png");
+  background-repeat: no-repeat;
+}
+header {
+  background-color: #00B386;
+  color: #FFFFFF;
+  text-align: center;
+  height: 60px;
+  padding-top: 15px;
+}
+nav {
+  background-color: #FFFFFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 10px;
+  text-align: center;
+}
+h1 {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-family: Times, Georgia, serif;
+}
+h2 {
+  color: #00664D;
+  font-family: Times, Georgia, serif;
+  text-shadow: 1px 1px #CCCCCC;
+}
+h3 {
+  font-family: Times, Georgia, serif;
+}
+ul {
+  list-style-image: url("images/marker.gif");
+}
+dt {
+  color: #00664D;
+  font-weight: bold;
+}
+.barn {
+  color: #70DBDB;
+  font-weight: bold;
+}
+footer {
+  font-size: 75%;
+  font-style: italic;
+  font-family: Times, Georgia, serif;
+  text-align: center; 
+  padding: 15px;
+}
+#contact {
+  font-size: 90%;
+}
+main {
+  padding-top: 1px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  display: block;
+}
+#heroHome {
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#heroTraining {
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+#heroBoard {
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
