@@ -32,8 +32,21 @@ nav {
   font-size: 120%;
   width: 160px;
 }
-
-
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: o;
+  font-size: 1.2em;
+}
+:link {
+  color: #00664D;
+}
+:visited {
+  color: #7A7A52;
+}
+:hover {
+  color: #FFFFFF;
+}
 h1 {
   margin-bottom: 0;
   margin-top: 0;
@@ -50,7 +63,7 @@ h3 {
   font-family: Times, Georgia, serif;
 }
 main ul {
- 
+  list-style-image: url("images/marker.gif");
 }
 dt {
   color: #00664D;
