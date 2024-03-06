@@ -35,17 +35,8 @@ nav {
 nav ul {
   list-style-type: none;
   margin: 0;
-  padding-left: o;
+  padding-left: 0;
   font-size: 1.2em;
-}
-:link {
-  color: #00664D;
-}
-:visited {
-  color: #7A7A52;
-}
-:hover {
-  color: #FFFFFF;
 }
 h1 {
   margin-bottom: 0;
