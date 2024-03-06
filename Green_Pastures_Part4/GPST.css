@@ -2,8 +2,6 @@
   box-sizing: border-box;
 }
 #wrapper {
-  text-align: center;
-  background-color: #0C5442;
   background-image: linear-gradient(#FFFFFF, #0C5442)
   width: 80%;
   min-width: 900px;
